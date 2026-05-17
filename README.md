@@ -1,7 +1,7 @@
 # MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models
 
 ## 🔥 News
-MMBench-Live has been accepted at ICML 2026!
+- May 1 2026: MMBench-Live has been accepted at ICML 2026!
 
 ## 👀 Introduction
 Evaluation benchmarks are essential for measuring the capabilities of vision–language models (VLMs). Existing multimodal benchmarks are mostly static, which makes them prone to data contamination, temporal staleness, and high construction costs. To address these challenges, we propose MMBench-Live, a dynamic, multi-agent-driven benchmark that continuously updates without human intervention. It integrates structured benchmark descriptions, real-time data collection, and automated QA generation, enabling scalable and low-cost evaluations. Additionally, a distribution-consistent updating strategy ensures reliable and fair evaluation across versions, while maintaining data diversity and quality.
