@@ -38,7 +38,7 @@ Before running the project, you need to set up the necessary API keys and config
 |--------------------|-------------|
 | `OPENAI_API_KEY`   | API key for OpenAI models |
 | `GEMINI_API_KEY`   | API key for Google AI Studio |
-| `SERPER_API_KEY`   | API key for Serper image search |
+| `SERPER_API_KEY`   | API key for Google Image search |
 
 ### [Optional]Required for Running Agents
 To run the agents, you **must** configure the following:
