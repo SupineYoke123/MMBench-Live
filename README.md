@@ -104,12 +104,10 @@ python agent_run.py
 ## 🔗 Citation
 If you find this work useful for your research, please kindly cite our paper:
 ```
-@inproceedings{
-anonymous2026mmbenchlive,
-title={{MMB}ench-Live: A Continuously Evolving Benchmark for Multimodal Models},
-author={Yuanzhi Liu and Shousheng Zhao and Bo Zhou and Kongming Liang and Zhanyu Ma},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
-url={https://openreview.net/forum?id=qvjszj58jT}
+@unpublished{liu2026mmbenchlive,
+  title={{MMB}ench-Live: A Continuously Evolving Benchmark for Multimodal Models},
+  author={Yuanzhi Liu and Shousheng Zhao and Bo Zhou and Kongming Liang and Zhanyu Ma},
+  booktitle={Forty-third International Conference on Machine Learning},
+  year={2026},
 }
 ```
