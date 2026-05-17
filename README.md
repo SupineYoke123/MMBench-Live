@@ -80,6 +80,7 @@ python pipeline/qa_generation.py
 
 ### 2️⃣ Agent Pipeline
 If you want to run the agents, make sure all required API keys, MCP endpoints, and ports are properly configured (see ⚙️ Configuration section).
+
 **Steps:**
 1. Open separate terminals for each agent and run:
 ```bash
@@ -102,7 +103,7 @@ python agent_run.py
 
 ## 🔗 Citation
 If you find this work useful for your research, please kindly cite our paper:
-```bash
+```python
 @inproceedings{
 anonymous2026mmbenchlive,
 title={{MMB}ench-Live: A Continuously Evolving Benchmark for Multimodal Models},
