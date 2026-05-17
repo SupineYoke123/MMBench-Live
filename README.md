@@ -36,8 +36,8 @@ Before running the project, you need to set up the necessary API keys and config
 
 | Environment Variable | Description |
 |--------------------|-------------|
-| `OPENAI_API_KEY`   | API key for OpenAI models (e.g., GPT-5-mini) |
-| `GEMINI_API_KEY`   | API key for Google AI Studio (Gemini) |
+| `OPENAI_API_KEY`   | API key for OpenAI models |
+| `GEMINI_API_KEY`   | API key for Google AI Studio |
 | `SERPER_API_KEY`   | API key for Serper image search |
 
 ### [Optional]Required for Running Agents
